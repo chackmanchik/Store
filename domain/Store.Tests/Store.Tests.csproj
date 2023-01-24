@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\infrastructure\Store.Memory\Store.Memory.csproj" />
+    <ProjectReference Include="..\..\presentation\Store.Web\Store.Web.csproj" />
     <ProjectReference Include="..\store\Store.csproj" />
   </ItemGroup>
 
